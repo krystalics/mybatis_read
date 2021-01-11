@@ -3,8 +3,7 @@
 
 测试运行的入口在：
 mybatis
-  src>main>test
-    org.apache.ibatis.entry
-    resources>mybatis-config.xml
+  src.main.test.org.apache.ibatis.entry.* 运行代码
+  src.main.test.resources.mybatis-config.xml 数据库配置
     
 运行entry包中的StudyTest的main方法即可
